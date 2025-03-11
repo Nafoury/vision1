@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd3c17ac-75e9-4541-99db-dafb6457807a" name="Changes" comment="whole">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fd3c17ac-75e9-4541-99db-dafb6457807a" name="Changes" comment="wholle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +138,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="wholeh" />
     <MESSAGE value="whole" />
-    <option name="LAST_COMMIT_MESSAGE" value="whole" />
+    <MESSAGE value="wholle" />
+    <option name="LAST_COMMIT_MESSAGE" value="wholle" />
   </component>
 </project>
